@@ -7,7 +7,7 @@ pipeline
 		{
 			step
 			{
-				echo "Checking out the code"
+				echo "Checking out the code."
 				
 			}	
 		}

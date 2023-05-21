@@ -1,0 +1,17 @@
+pipeline 
+{
+	Stages
+	{
+	
+		Stage("CheckOut")
+		{
+			step
+			{
+				echo "Checking out the code"
+				
+			}	
+		}
+	
+	}
+
+}
